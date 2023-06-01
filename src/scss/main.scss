@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "@fontsource/lato";
+@import "@fontsource/pontano-sans";
+@import "@fontsource/open-sans";
+@import "@fontsource/open-sans/700.css";
+@import "@fontsource/roboto-slab";
+@import "@fontsource/roboto-slab/300.css";
+@import "@fontsource/roboto-slab/500.css";
+@import "@fontsource/roboto-slab/600.css";
+@import "variables";
+@import "base/index";
+@import "layout/index";
+@import "module/index";

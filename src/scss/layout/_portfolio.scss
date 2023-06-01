@@ -1,0 +1,13 @@
+@media (min-width: 1280px) {
+  
+.portfolio-grid {
+  .item-wrapper {
+    &:first-child {
+      padding-top: 10rem;
+    }
+    &:nth-child(6) {
+      padding-top: 5rem;
+    }
+  }
+}
+}

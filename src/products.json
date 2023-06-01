@@ -1,0 +1,599 @@
+[{
+  "id": "1",
+  "name": "Purifying Gel Cleanser",
+  "image": "/src/assets/shop/alumier/PURIFYING GEL CLEANSER_1.jpg",
+  "description": "A refreshing pH balanced foaming gel cleanser.",
+  "size": "177mL /6 fl oz",
+  "price": "$56.00",
+  "url" : "https://www.alumiermd.ca/products/purifying-gel-cleanser?code=4L23ZRZH",
+  "imgAlt": "Purifying Gen Cleanser Image",
+  "productType": ["cleansers"],
+  "skinTypes": ["oily", "combination"],
+  "skinCondition": ["acne", "aging", "discoloration"]
+  
+  },  
+  {
+  "id": "2",
+  "name": "HydraBoost",
+  "image": "/src/assets/shop/alumier/HYDRABOOST_1.jpg",
+  "description": "A gentle and intensely hydrating pH-balanced cream cleanser.",
+  "size": "177mL /6 fl oz",
+  "price": "$52.00",
+  "url" : "https://www.alumiermd.ca/products/hydraboost?code=4L23ZRZH",
+  "imgAlt": "HydraBoost Cleanser Image",
+  "productType": ["cleansers"],
+  "skinType": ["dry"],
+  "skinCondition": ["aging", "discoloration"]
+
+},
+{
+  "id": "3",
+  "name": "Acne Clarifying Cleanser",
+  "image": "/src/assets/shop/alumier/ACNE CLARIFYING CLEANSER_1.jpg",
+  "description": "A gentle yet highly effective pH balanced gel cleanser.",
+  "size": "177mL /6 fl oz",
+  "price": "$60.00",
+  "url" : "https://www.alumiermd.ca/products/acne-clarifying-cleanser?code=4L23ZRZH",
+  "imgAlt": "Acne Clarifying Cleanser Image",
+  "filters": {
+      "productType": ["cleansers"],
+      "skinType": ["oily", "combination"],
+      "skinCondition": ["acne"]
+  }
+},
+{
+  "id": "4",
+  "name": "SensiCalm",
+  "image": "/src/assets/shop/alumier/SENSICALM.jpg",
+  "description": "A gentle and soothing pH balanced creamy cleanser.",
+  "size": "177mL /6 fl oz",
+  "price": "$52.00",
+  "url" : "https://www.alumiermd.ca/products/sensicalm?code=4L23ZRZH",
+  "imgAlt": "SensiCalm Image",
+  "filters": {
+      "productType": ["cleansers"],
+      "skinType": ["dry"],
+      "skinCondition": ["sensitive", "aging"]
+  }
+},
+{
+  "id": "5",
+  "name": "Lotus Scrub",
+  "image": "/src/assets/shop/alumier/Lotus Scrub - compressed.jpg",
+  "description": "A mechanical exfoliating scrub designed to smooth, refine and improve skin tone.",
+  "size": "120 mL /4 fl oz",
+  "price": "$49.00",
+  "url" : "https://www.alumiermd.ca/products/lotus-scrub?code=4L23ZRZH",
+  "imgAlt": "Lotus Scrub Image",
+  "filters": {
+      "productType": ["exfoliation"],
+      "skinType": ["most"],
+      "skinCondition": ["discoloration", "aging"]
+  }
+},
+{
+  "id": "6",
+  "name": "AHA Renewal Serum",
+  "image": "/src/assets/shop/alumier/AHA RENEWAL SERUM_1.jpg",
+  "description": "A powerful AHA (Alpha Hydroxy Acid) serum that enhances skin texture and tone, reducing the visible signs of aging.",
+  "size": "30 mL /1 fl oz",
+  "price": "$100.00",
+  "url" : "https://www.alumiermd.ca/products/aha-renewal-serum?code=4L23ZRZH",
+  "imgAlt": "AHA Renewal Serum Image",
+  "filters": {
+      "productType": ["exfoliation"],
+      "skinType": ["most"],
+      "skinCondition": ["discoloration", "aging", "acne", "sensitive"]
+  }
+},
+{
+  "id": "7",
+  "name": "Bright & Clear Solution",
+  "image": "/src/assets/shop/alumier/BRIGHT & CLEAR_1.jpg",
+  "description": "A refreshing skin conditioning solution that exfoliates cellular debris and refines skin complexion.",
+  "size": "180 mL /  6 fl oz",
+  "price": "$56.00",
+  "url" : "https://www.alumiermd.ca/products/bright-and-clear-solution?code=4L23ZRZH",
+  "imgAlt": "Bright & Clear Solution Image",
+  "filters": {
+      "productType": ["exfoliation"],
+      "skinType": ["most"],
+      "skinCondition": ["discoloration", "aging", "acne"]
+  }
+},
+{
+  "id": "8",
+  "name": "Enzymatic Peel",
+  "image": "/src/assets/shop/alumier/Enzymatic Peel - compressed.jpg",
+  "description": "A highly effective fruit enzyme exfoliant for most skin types to use at home.",
+  "size": "60 mL / 2 fl oz",
+  "price": "$115.00",
+  "url" : "https://www.alumiermd.ca/products/enzymatic-peel?code=4L23ZRZH",
+  "imgAlt": "Enzymatic Peel Image",
+  "filters": {
+      "productType": ["exfoliation"],
+      "skinType": ["all"],
+      "skinCondition": ["discoloration", "aging", "acne"]
+  }
+},
+{
+  "id": "9",
+  "name": "AluminEye",
+  "image": "/src/assets/shop/alumier/ALUMINEYE_2.jpg",
+  "description": "A rich eye cream that significantly improves the appearance of dark circles, fine lines and puffiness.",
+  "size": "15 mL / 0.5 fl oz",
+  "price": "$115.00",
+  "url" : "https://www.alumiermd.ca/products/alumineye?code=4L23ZRZH",
+  "imgAlt": "AluminEye Image",
+  "filters": {
+      "productType": ["speciality_eye"],
+      "skinType": ["all"],
+      "skinCondition": ["discoloration", "aging", "acne", "sensitive"]
+  }
+},
+{
+  "id": "10",
+  "name": "Retinol Eye Gel",
+  "image": "/src/assets/shop/alumier/RETINOL EYE GEL_1.jpg",
+  "description": "An innovative microencapsulated retinol eye gel that dramatically improves the appearance of fine lines and wrinkles and firms the skin.",
+  "size": "15 mL / 0.5 fl oz",
+  "price": "$110.00",
+  "url" : "https://www.alumiermd.ca/products/retinol-eye-gel?code=4L23ZRZH",
+  "imgAlt": "Retinol Eye Gel Image",
+  "filters": {
+      "productType": ["speciality_eye"],
+      "skinType": ["most"],
+      "skinCondition": ["discoloration", "aging", "acne"]
+  }
+},
+{
+  "id": "11",
+  "name": "Eye Rescue Pads",
+  "image": "/src/assets/shop/alumier/EYE RESCUE PADS_044.jpg",
+  "description": "An innovative microencapsulated retinol eye gel that dramatically improves the appearance of fine lines and wrinkles and firms the skin.",
+  "size": "4 x 6 g = 24 g",
+  "price": "$44.00",
+  "url" : "https://www.alumiermd.ca/products/eye-rescue-pads?code=4L23ZRZH",
+  "imgAlt": "Eye Rescue Pads Image",
+  "filters": {
+      "productType": ["speciality_eye"],
+      "skinType": ["all"],
+      "skinCondition": ["discoloration", "aging", "acne", "sensitive"]
+  }
+},
+{
+  "id": "12",
+  "name": "HydraLight",
+  "image": "/src/assets/shop/alumier/HYDRALIGHT_2.jpg",
+  "description": "A light hydrating moisturizer loaded with powerful peptides, antioxidants and soothing ingredients.",
+  "size": "50 mL / 1.7 fl oz",
+  "price": "$73.00",
+  "url" : "https://www.alumiermd.ca/products/hydralight?code=4L23ZRZH",
+  "imgAlt": "HydraLight Image",
+  "filters": {
+      "productType": ["moisturizer"],
+      "skinType": ["combination", "oily"],
+      "skinCondition": ["discoloration", "aging", "acne"]
+  }
+},
+{
+  "id": "13",
+  "name": "HydraDew",
+  "image": "/src/assets/shop/alumier/HydraDew.jpg",
+  "description": "An intensely hydrating moisturizer loaded with powerful peptides, antioxidants and soothing ingredients.",
+  "size": "50 mL / 1.7 fl oz",
+  "price": "$73.00",
+  "url" : "https://www.alumiermd.ca/products/hydradew?code=4L23ZRZH",
+  "imgAlt": "HydraDew Image",
+  "filters": {
+      "productType": ["moisturizer"],
+      "skinType": ["normal", "dry"],
+      "skinCondition": ["discoloration", "aging"]
+  }
+},
+{
+  "id": "14",
+  "name": "HydraRich",
+  "image": "/src/assets/shop/alumier/HydraRich.jpg",
+  "description": "A smooth rich moisturizer packed with emollients and hydrators for the ultimate moisturizer experience. Ideal for dry skin.",
+  "size": "50 mL / 1.7 fl oz",
+  "price": "$97.00",
+  "url" : "https://www.alumiermd.ca/products/hydrarich?code=4L23ZRZH",
+  "imgAlt": "HydraRich Image",
+  "filters": {
+      "productType": ["moisturizer"],
+      "skinType": ["very_dry"],
+      "skinCondition": []
+  }
+},
+{
+  "id": "15",
+  "name": "HydraSmooth™",
+  "image": "/src/assets/shop/alumier/HYDRA SMOOTH_2.jpg",
+  "description": "An ultra-light, fast-absorbing non-comedogenic moisturizer formulated to restore clarity to acne-prone skin.",
+  "size": "50 mL / 1.7 fl oz",
+  "price": "$73.00",
+  "url" : "https://www.alumiermd.ca/products/hydrasmooth?code=4L23ZRZH",
+  "imgAlt": "HydraSmooth™ Image",
+  "filters": {
+      "productType": ["moisturizer"],
+      "skinType": ["oily"],
+      "skinCondition": ["acne"]
+  }
+},
+{
+  "id": "16",
+  "name": "HydraClarité",
+  "image": "/src/assets/shop/alumier/HYDRACLARITE_2.jpg",
+  "description": "An ultra-light, non-comedogenic antioxidant-rich moisturizer formulated for oily and blemish-prone skin, which absorbs quickly and effectively leaving no residue.",
+  "size": "50 mL / 1.7 fl oz",
+  "price": "$73.00",
+  "url" : "https://www.alumiermd.ca/products/hydraclarite?code=4L23ZRZH",
+  "imgAlt": "HydraClarité Image",
+  "filters": {
+      "productType": ["moisturizer"],
+      "skinType": ["oily", "combination"],
+      "skinCondition": ["acne"]
+  }
+},
+{
+  "id": "17",
+  "name": "HydraCalm",
+  "image": "/src/assets/shop/alumier/HYDRACALM_2.jpg",
+  "description": "A soothing and rich moisturizer loaded with antioxidants and calming ingredients.",
+  "size": "50 mL / 1.7 fl oz",
+  "price": "$75.00",
+  "url" : "https://www.alumiermd.ca/products/hydracalm?code=4L23ZRZH",
+  "imgAlt": "HydraCalm Image",
+  "filters": {
+      "productType": ["moisturizer"],
+      "skinType": ["dry"],
+      "skinCondition": ["sensitive"]
+  }
+},
+{
+  "id": "18",
+  "name": "Neck & Décolleté Firming Cream",
+  "image": "/src/assets/shop/alumier/NECK & DECOLLETE FIRMING CREAM_1.jpg",
+  "description": "A smooth firming moisturizer for the neck and décolleté that reduces the visible signs of aging.",
+  "size": "90 mL / 3 fl oz",
+  "price": "$98.00",
+  "url" : "https://www.alumiermd.ca/products/neck-and-decollete-firming-cream?code=4L23ZRZH",
+  "imgAlt": "Neck & Décolleté Firming Cream Image",
+  "filters": {
+      "productType": ["moisturizer"],
+      "skinType": ["all"],
+      "skinCondition": ["aging", "discoloration"]
+  }
+},
+{
+  "id": "19",
+  "name": "Recovery Balm",
+  "image": "/src/assets/shop/alumier/RECOVERY BALM_2.jpg",
+  "description": "An intensely soothing moisturizer, specifically formulated for post-procedure.",
+  "size": "50 mL /1.7 fl oz",
+  "price": "$95.00",
+  "url" : "https://www.alumiermd.ca/products/recovery-balm?code=4L23ZRZH",
+  "imgAlt": "Recovery Balm Image",
+  "filters": {
+      "productType": ["post_procedure"],
+      "skinType": ["all"],
+      "skinCondition": []
+  }
+},
+{
+  "id": "20",
+  "name": "Aqua Infusion Mask",
+  "image": "/src/assets/shop/alumier/Aqua_Infusion_Mask.jpeg",
+  "description": "Oil-free Hydrating Facial Mask.",
+  "size": "60 mL / 2 fl oz",
+  "price": "$42.00",
+  "url" : "https://www.alumiermd.ca/products/aqua-infusion-mask?code=4L23ZRZH",
+  "imgAlt": "Aqua Infusion Mask Image",
+  "filters": {
+      "productType": ["mask"],
+      "skinType": ["all"],
+      "skinCondition": []
+  }
+},
+{
+  "id": "21",
+  "name": "EverActive C&E™ + Peptide",
+  "image": "/src/assets/shop/alumier/EVERACTIVE C+E PLUS PEPTIDE_063.jpg",
+  "description": "A potent, clinically validated, antioxidant serum to reduce the visible signs of aging.",
+  "size": "3 x 15mL / 0.5 fl oz",
+  "price": "$204.00",
+  "url" : "https://www.alumiermd.ca/products/everactive-c-e?code=4L23ZRZH",
+  "imgAlt": "EverActive C&E™ + Peptide Image",
+  "filters": {
+      "productType": ["serums"],
+      "skinType": ["all"],
+      "skinCondition": ["sensitive", "aging", "discoloration"]
+  }
+},
+{
+  "id": "22",
+  "name": "Alumience A.G.E.™",
+  "image": "/src/assets/shop/alumier/ALUMIENCE AGE_2.jpg",
+  "description": "An exclusive formulation that reduces the visible signs of aging caused by free radicals, pollution and advanced glycation end products (AGEs).",
+  "size": "30 mL / 1 fl oz",
+  "price": "$149.00",
+  "url" : "https://www.alumiermd.ca/products/alumience-a-g-e?code=4L23ZRZH",
+  "imgAlt": "Alumience A.G.E.™ Image",
+  "filters": {
+      "productType": ["serums"],
+      "skinType": ["all"],
+      "skinCondition": ["aging"]
+  }
+},
+{
+  "id": "23",
+  "name": "Ultimate Boost Serum",
+  "image": "/src/assets/shop/alumier/ULTIMATE BOOST SERUM (UNBOXED)_2.jpg",
+  "description": "A lightweight, hydrating serum that combines moisturizing and anti-aging ingredients to reduce the visible signs of aging.",
+  "size": "30 mL / 1 fl oz",
+  "price": "$120.00",
+  "url" : "https://www.alumiermd.ca/products/ultimate-boost-serum?code=4L23ZRZH",
+  "imgAlt": "Ultimate Boost Serum Image",
+  "filters": {
+      "productType": ["serums"],
+      "skinType": ["all"],
+      "skinCondition": ["sensitive", "aging", "discoloration"]
+  }
+},
+{
+  "id": "24",
+  "name": "Retinol Resurfacing Serum 0.25",
+  "image": "/src/assets/shop/alumier/RETINOL RESURFACING SERUM 0.25_2.jpg",
+  "description": "A microencapsulated 0.25% pure retinol treatment that improves skin tone and texture and reduces the signs of aging.",
+  "size": "30 mL / 1 fl oz",
+  "price": "$107.00",
+  "url" : "https://www.alumiermd.ca/products/retinol-resurfacing-serum-0-25?code=4L23ZRZH",
+  "imgAlt": "Retinol Resurfacing Serum 0.25 Image",
+  "filters": {
+      "productType": ["serums"],
+      "skinType": ["all"],
+      "skinCondition": ["acne", "aging", "discoloration"]
+  }
+},
+{
+  "id": "25",
+  "name": "Retinol Resurfacing Serum 0.5",
+  "image": "/src/assets/shop/alumier/RETINOL RESURFACING SERUM 0.5_2.jpg",
+  "description": "A microencapsulated 0.5% retinol treatment that improves skin tone and texture and reduces the signs of aging.",
+  "size": "30 mL / 1 fl oz",
+  "price": "$125.00",
+  "url" : "https://www.alumiermd.ca/products/retinol-resurfacing-serum-0-5?code=4L23ZRZH",
+  "imgAlt": "Retinol Resurfacing Serum 0.5 Image",
+  "filters": {
+      "productType": ["serums"],
+      "skinType": ["all"],
+      "skinCondition": ["acne", "aging", "discoloration"]
+  }
+},
+{
+  "id": "26",
+  "name": "Retinol Resurfacing Serum 1.0",
+  "image": "/src/assets/shop/alumier/RETINOL RESURFACING SERUM 1.0_2.jpg",
+  "description": "A microencapsulated 1.0% retinol treatment that improves skin tone and texture and reduces the signs of aging.",
+  "size": "30 mL / 1 fl oz",
+  "price": "$129.00",
+  "url" : "https://www.alumiermd.ca/products/retinol-resurfacing-serum-1-0?code=4L23ZRZH",
+  "imgAlt": "Retinol Resurfacing Serum 1.0 Image",
+  "filters": {
+      "productType": ["serums"],
+      "skinType": ["all"],
+      "skinCondition": ["acne", "aging", "discoloration"]
+  }
+},
+{
+  "id": "27",
+  "name": "Calm-R™",
+  "image": "/src/assets/shop/alumier/CALM R_2.jpg",
+  "description": "A lightweight hydrating serum that targets the look of redness-prone skin while providing long-term relief.",
+  "size": "30 mL / 1 fl oz",
+  "price": "$142.00",
+  "url" : "https://www.alumiermd.ca/products/calm-r?code=4L23ZRZH",
+  "imgAlt": "Calm-R™ Image",
+  "filters": {
+      "productType": ["serums"],
+      "skinType": ["all"],
+      "skinCondition": ["sensitive"]
+  }
+},
+{
+  "id": "28",
+  "name": "Vitamin Rich Smoother",
+  "image": "/src/assets/shop/alumier/VITAMIN RICH SMOOTHER_2.jpg",
+  "description": "A powerful antioxidant formulation that smooths skin texture and delivers vitamins C and E.",
+  "size": "30 mL / 1 fl oz",
+  "price": "$130.00",
+  "url" : "https://www.alumiermd.ca/products/vitamin-rich-smoother?code=4L23ZRZH",
+  "imgAlt": "Vitamin Rich Smoother Image",
+  "filters": {
+      "productType": ["serums"],
+      "skinType": ["dry", "combination"],
+      "skinCondition": ["sensitive", "aging"]
+  }
+},
+{
+  "id": "29",
+  "name": "EvenTone",
+  "image": "/src/assets/shop/alumier/EVENTONE BRIGHTENING SERUM_2.jpg",
+  "description": "A lightweight serum containing all natural agents to brighten the complexion and reduce the appearance of uneven skin tone. Hydroquinone-free.",
+  "size": "30 mL / 1 fl oz",
+  "price": "$130.00",
+  "url" : "https://www.alumiermd.ca/products/eventone?code=4L23ZRZH",
+  "imgAlt": "EvenTone Image",
+  "filters": {
+      "productType": ["serums"],
+      "skinType": ["all"],
+      "skinCondition": ["discoloration", "aging"]
+  }
+},
+{
+  "id": "30",
+  "name": "Intellibright® Complex",
+  "image": "/src/assets/shop/alumier/INTELLIBRIGHT COMPLEX_2.jpg",
+  "description": "An intensive brightening serum containing naturally powerful brightening agents to reduce the appearance of uneven skin tone. Hydroquinone-free.",
+  "size": "30 mL / 1 fl oz",
+  "price": "$118.00",
+  "url" : "https://www.alumiermd.ca/products/intellibright-complex?code=4L23ZRZH",
+  "imgAlt": "Intellibright® Complex Image",
+  "filters": {
+      "productType": ["serums"],
+      "skinType": ["all"],
+      "skinCondition": ["discoloration"]
+  }
+},
+{
+  "id": "31",
+  "name": "Lightening Lotion",
+  "image": "/src/assets/shop/alumier/INTELLIBRIGHT COMPLEX_2.jpg",
+  "description": "A lightweight lotion with hydroquinone and licorice root extract to brighten the complexion and reduce the appearance of hyperpigmentation including brown spots and uneven skin tone.",
+  "size": "50 mL / 1.7 fl oz",
+  "price": "$110.00",
+  "url" : "https://www.alumiermd.ca/products/lightening-lotion?code=4L23ZRZH",
+  "imgAlt": "Lightening Lotion Image",
+  "filters": {
+      "productType": ["serums"],
+      "skinType": ["all"],
+      "skinCondition": ["discoloration"]
+  }
+},
+{
+  "id": "32",
+  "name": "Acne Balancing Serum",
+  "image": "/src/assets/shop/alumier/ACNE BALANCING SERUM_2.jpg",
+  "description": "A highly effective, lightweight serum that penetrates pores to reduce acne, allow skin to heal and prevent new blemishes.",
+  "size": "30 mL / 1 fl oz",
+  "price": "$88.00",
+  "url" : "https://www.alumiermd.ca/products/acne-balancing-serum?code=4L23ZRZH",
+  "imgAlt": "Acne Balancing Serum Image",
+  "filters": {
+      "productType": ["serums"],
+      "skinType": ["oily"],
+      "skinCondition": ["acne"]
+  }
+},
+{
+  "id": "33",
+  "name": "Matticlear",
+  "image": "/src/assets/shop/alumier/MATTICLEAR_2.jpg",
+  "description": "A lightweight oil-absorbing serum that helps reduce shine and refine skin texture, resulting in a smooth, matte finish.",
+  "size": "30 mL / 1 fl oz",
+  "price": "$87.00",
+  "url" : "https://www.alumiermd.ca/products/matticlear?code=4L23ZRZH",
+  "imgAlt": "Matticlear Image",
+  "filters": {
+      "productType": ["serums"],
+      "skinType": ["oily", "combination"],
+      "skinCondition": []
+  }
+},
+{
+  "id": "34",
+  "name": "Spot Clearing Lotion",
+  "image": "/src/assets/shop/alumier/SPOT CLEARING LOTION_2.jpg",
+  "description": "A potent acne spot treatment to heal blemishes quickly.",
+  "size": "15 mL / 0.5 fl. oz",
+  "price": "$39.00",
+  "url" : "https://www.alumiermd.ca/products/spot-clearing-lotion?code=4L23ZRZH",
+  "imgAlt": "Spot Clearing Lotion Image",
+  "filters": {
+      "productType": ["serums"],
+      "skinType": ["all"],
+      "skinCondition": ["acne"]
+  }
+},
+{
+  "id": "35",
+  "name": "Moisture Matte Broad Spectrum SPF 40 (Ivory)",
+  "image": "/src/assets/shop/alumier/MOISTURE MATTE BROAD SPECTRIM SUNSCREEN SPF 40 IVORY.jpg",
+  "description": "An innovative, broad-spectrum tinted 100% physical facial sunscreen with a matte finish. It can also double as your daily foundation.",
+  "size": "60 mL / 2 fl oz",
+  "price": "$52.00",
+  "url" : "https://www.alumiermd.ca/products/moisture-matte-broad-spectrum-sunscreen-spf-40-ivory?code=4L23ZRZH",
+  "imgAlt": "Moisture Matte Broad Spectrum SPF 40 (Ivory) Image",
+  "filters": {
+      "productType": ["sunscreen"],
+      "skinType": ["combination", "oily"],
+      "skinCondition": ["acne", "aging", "discoloration"]
+  }
+},
+{
+  "id": "36",
+  "name": "Moisture Matte Broad Spectrum SPF 40 (Sand)",
+  "image": "/src/assets/shop/alumier/MOISTURE MATTE BROAD SPECTRIM SUNSCREEN SPF 40 SAND.jpg",
+  "description": "An innovative, broad-spectrum tinted 100% physical facial sunscreen with a matte finish. It can also double as your daily foundation.",
+  "size": "60 mL / 2 fl oz",
+  "price": "$52.00",
+  "url" : "https://www.alumiermd.ca/products/moisture-matte-broad-spectrum-sunscreen-spf-40-sand?code=4L23ZRZH",
+  "imgAlt": "Moisture Matte Broad Spectrum SPF 40 (Sand) Image",
+  "filters": {
+      "productType": ["sunscreen"],
+      "skinType": ["combination", "oily"],
+      "skinCondition": ["acne", "aging", "discoloration"]
+  }
+},
+{
+  "id": "37",
+  "name": "Moisture Matte Broad Spectrum SPF 40 (Amber)",
+  "image": "/src/assets/shop/alumier/MOISTURE MATTE BROAD SPECTRIM SUNSCREEN SPF 40.jpg",
+  "description": "An innovative, broad-spectrum tinted 100% physical facial sunscreen with a matte finish. It can also double as your daily foundation.",
+  "size": "60 mL / 2 fl oz",
+  "price": "$52.00",
+  "url" : "https://www.alumiermd.ca/products/moisture-matte-broad-spectrum-sunscreen-spf-40-amber?code=4L23ZRZH",
+  "imgAlt": "Moisture Matte Broad Spectrum SPF 40 (Amber) Image",
+  "filters": {
+      "productType": ["sunscreen"],
+      "skinType": ["combination", "oily"],
+      "skinCondition": ["acne", "aging", "discoloration"]
+  }
+},
+{
+  "id": "38",
+  "name": "Sheer Hydration Broad Spectrum SPF 40 (Untinted)",
+  "image": "/src/assets/shop/alumier/SHEER HYDRATION BROAD SPECTRUM SUNSCREEN SPF 40 UNTINTED.jpg",
+  "description": "A sheer, moisturizing, 100% physical, broad-spectrum facial sunscreen.",
+  "size": "60 mL / 2 fl oz",
+  "price": "$56.00",
+  "url" : "https://www.alumiermd.ca/products/sheer-hydration-broad-spectrum-sunscreen-spf-40?code=4L23ZRZH",
+  "imgAlt": "Sheer Hydration Broad Spectrum SPF 40 (Untinted) Image",
+  "filters": {
+      "productType": ["sunscreen"],
+      "skinType": ["combination", "dry"],
+      "skinCondition": ["acne", "aging", "discoloration", "sensitive"]
+  }
+},
+{
+  "id": "39",
+  "name": "Sheer Hydration Broad Spectrum SPF 40 (Versatile Tint)",
+  "image": "/src/assets/shop/alumier/SHEER HYDRATION BROAD TINTED.jpg",
+  "description": "A sheer moisturizing 100% physical broad-spectrum facial sunscreen.",
+  "size": "60 mL / 2 fl oz",
+  "price": "$56.00",
+  "url" : "https://www.alumiermd.ca/products/sheer-hydration-broad-spectrum-suncreen-spf-40-versatile-tint?code=4L23ZRZH",
+  "imgAlt": "Sheer Hydration Broad Spectrum SPF 40 (Versatile Tint) Image",
+  "filters": {
+      "productType": ["sunscreen"],
+      "skinType": ["combination", "dry"],
+      "skinCondition": ["acne", "aging", "discoloration", "sensitive"]
+  }
+},
+{
+  "id": "40",
+  "name": "Clear Shield Broad Spectrum SPF 42",
+  "image": "/src/assets/shop/alumier/SHEER HYDRATION BROAD TINTED.jpg",
+  "description": "A lightweight, non-comedogenic, 100% physical broad-spectrum facial sunscreen.",
+  "size": "60 mL / 2 fl oz",
+  "price": "$56.00",
+  "url" : "https://www.alumiermd.ca/products/clear-shield-broad-spectrum-sunscreen-spf-42?code=4L23ZRZH",
+  "imgAlt": "Clear Shield Broad Spectrum SPF 42 Image",
+  "filters": {
+      "productType": ["sunscreen"],
+      "skinType": ["combination", "oily"],
+      "skinCondition": ["acne", "aging", "discoloration", "sensitive"]
+  }
+}
+]

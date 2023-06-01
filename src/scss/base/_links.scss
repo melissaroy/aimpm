@@ -1,0 +1,39 @@
+.nav-item {
+    > a,
+    > button.link {
+      transition: 0.4s;
+      color: $gray;
+      border-bottom: 3px solid transparent;
+      padding: 0.5rem 1rem;
+      font-size: large;
+      display: flex;
+      font-family: 'Pontano Sans';
+    }
+}
+
+@media (hover: hover) {
+  .nav-item {
+    > a:hover,
+    > button:hover,
+    .router-link-active,
+    button[aria-expanded="true"] {
+      border-bottom: 3px solid rgb(214 211 209 / var(--tw-bg-opacity));
+    }
+  }
+  .dropdown-link {
+    &:after {
+      content: " ";
+      background-image: url("../../src/assets/arrow-down.svg");
+      background-repeat: no-repeat;
+      width: 15px;
+      height: 16px;
+      display: inline-block;
+      transition: transform 0.4s ease-in-out;
+      margin-left: 0.5rem;
+    }
+    &[aria-expanded="true"]:after {
+      transform: rotate(180deg);
+    }
+  }
+}
+
