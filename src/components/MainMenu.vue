@@ -13,7 +13,7 @@
         </div>
         <div class="flex flex-1 items-center justify-between">
           <div class="flex flex-shrink-0 items-center">
-            <a href="/">
+            <a href="./">
               <img
                 class="block h-20 w-auto lg:hidden"
                 src="../assets/AIM-logo-white.svg"

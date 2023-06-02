@@ -17,7 +17,7 @@
       </div>
       <div class="bg-white rounded-lg p-10">
         <a
-          href="/accomodations"
+          href="./accomodations"
           class="text-center block py-2 text-xl font-bold transition ease-in-out hover:-translate-y-1 hover:underline"
         >
           <div class="flex items-center">
@@ -29,7 +29,7 @@
           </div></a
         >
         <a
-          href="#"
+          href="./construction"
           class="text-center block py-2 text-xl font-bold transition ease-in-out hover:-translate-y-1 hover:underline"
         >
           <div class="flex items-center">
@@ -41,7 +41,7 @@
           </div></a
         >
         <a
-          href="#"
+          href="./consumption"
           class="text-center block py-2 text-xl font-bold transition ease-in-out hover:-translate-y-1 hover:underline"
         >
           <div class="flex items-center">
