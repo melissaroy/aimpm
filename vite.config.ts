@@ -5,6 +5,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: "/aimpm/",
   plugins: [vue()],
   resolve: {
     alias: {
