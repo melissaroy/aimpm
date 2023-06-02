@@ -1,4 +1,10 @@
+<script setup lang="ts">
+import MainMenu from '@/components/MainMenu.vue'
+</script>
 <template>
+  <header>
+    <MainMenu />
+  </header>
   <div class="p-4 py-32 relative">
     <div class="container mx-auto">
       <div class="title-section flex items-center mb-5 pl-8 md:pl-0">
