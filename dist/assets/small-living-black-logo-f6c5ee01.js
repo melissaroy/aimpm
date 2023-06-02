@@ -1,0 +1,1 @@
+const s="/aimpm/assets/biography-img-282957ca.jpeg",a="/aimpm/assets/broken-sticks-logo-b3cfbf71.png",o="/aimpm/assets/hammond-hill-logo-cb7ea728.png",m="/aimpm/assets/small-living-black-logo-083cb2f9.png";export{s as _,a,o as b,m as c};
